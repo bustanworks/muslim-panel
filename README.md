@@ -6,6 +6,8 @@ A home-screen face for [Omalauncher](https://github.com/SimonSchubert/omalaunche
 
 It's written in OWL, Omalauncher's widget language, as one file: [`muslim-panel.owl`](muslim-panel.owl).
 
+A [Bustan Works](https://github.com/bustanworks) project, alongside [Majālis al-'Ilm](https://majalisalilm.netlify.app).
+
 ## Install
 
 **From the store:** long-press empty space on your home screen, open the **store**, and find *muslim-panel* under Faces. (Once it's listed; see [Status](#status).)
@@ -96,7 +98,7 @@ Everything you set or mark stays on your phone, in the launcher's own storage: y
 | City search | [Open-Meteo geocoding](https://open-meteo.com) |
 | Fonts | [Google Fonts](https://fonts.google.com) (SIL Open Font License) |
 
-The look is inspired by [Majālis al-'Ilm](https://majalisalilm.netlify.app).
+The look comes from [Majālis al-'Ilm](https://majalisalilm.netlify.app), Bustan Works' bilingual lecture archive.
 
 ## Status
 
@@ -104,4 +106,4 @@ Submitted to the [Omalauncher widget store](https://github.com/SimonSchubert/oma
 
 ## License
 
-[MIT](LICENSE). The duas, verses and hadith are the work of their authors and translators, served by the sources above.
+[MIT](LICENSE), © 2026 Bustan Works. The duas, verses and hadith are the work of their authors and translators, served by the sources above.
