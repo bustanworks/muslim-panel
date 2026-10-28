@@ -14,7 +14,7 @@ It's written in OWL, Omalauncher's widget language, as one file: [`muslim-panel.
 
 ```sh
 curl -fsSL -o ~/.config/omalauncher/widgets/muslim-panel.owl \
-  https://raw.githubusercontent.com/thecloudranger/muslim-panel/main/muslim-panel.owl
+  https://raw.githubusercontent.com/bustanworks/muslim-panel/main/muslim-panel.owl
 ```
 
 It shows up within seconds as a face left of your first home page; swipe right from page 1 to reach it, and move it in settings › pages. It runs no Linux commands, so it also works without Linux installed.
